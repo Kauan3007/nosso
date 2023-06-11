@@ -9,7 +9,7 @@ color: blueviolet;
 .titulo-corpo{
     display: flex;
     justify-content: center;
-    color: blue;
+    color: rgb(0, 200, 255);
 }
 .div-imagem-p1{
     display: flex;
