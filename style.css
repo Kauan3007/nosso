@@ -2,4 +2,8 @@
 margin: 0px;
 padding: 0px;
 background-attachment:A8349C;
+display: flex;
+align-items: center;
+justify-content: space-between;
+color: blueviolet;
 }
