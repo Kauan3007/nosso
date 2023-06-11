@@ -7,3 +7,22 @@ align-items: center;
 justify-content: space-between;
 color: blueviolet;
 }
+.titulo-corpo{
+    display: flex;
+    justify-content: center;
+}
+.div-imagem-p1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #7fffd4;
+    font-family: bree serif, serif;
+
+
+}
