@@ -4,6 +4,7 @@ padding: 0px;
 display: flex;
 justify-content: center;
 color: blueviolet;
+font-family: 'Dancing Script', cursive;
 }
 .titulo-corpo{
     display: flex;
