@@ -11,10 +11,9 @@ font-family: 'Dancing Script', cursive;
     justify-content: center;
     color: rgb(76, 0, 255);
 }
-.div-imagem-p1{
+.container{
     display: flex;
     justify-content: space-around;
-    align-items: center;
 }
 body{
     padding: 0px;
