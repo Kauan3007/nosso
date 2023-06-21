@@ -1,6 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cabeçalho{
+    width: 40px;
+}
+
 .titulo-cabeçalho{
-margin: 0px;
-padding: 0px;
 display: flex;
 justify-content: center;
 color: blueviolet;
