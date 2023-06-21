@@ -4,12 +4,13 @@
 }
 
 .cabeçalho{
-    width: 40px;
+    width: 50px;
 }
 
 .titulo-cabeçalho{
 display: flex;
 justify-content: center;
+text-align: center;
 color: blueviolet;
 font-family: 'Dancing Script', cursive;
 }
